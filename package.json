@@ -8,8 +8,7 @@
     "test": "hardhat test",
     "coverage": "hardhat coverage",
     "lint:sol": "solhint 'contracts/**/*.sol'",
-    "lint:ts": "eslint . --ext .js,.ts",
-    "deploy:hardhat": "hardhat deploy"
+    "lint:ts": "eslint . --ext .js,.ts"
   },
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.3",
